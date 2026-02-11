@@ -2,4 +2,4 @@ BELAJAR GIT/GITHUB
       - Commit : menyimpan perubahan kode (save point)
       - Branch : cabang (jalur alternatif buat ngoding tanpa ganggu versi utama)
       - Merge : menggabungkan satu branch ke branch lain
-
+      - Checkout : digunakan untuk berpindah ke branch lain atau ke commit tertentu
