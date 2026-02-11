@@ -1,0 +1,3 @@
+BELAJAR GITHUB
+      - Commit : menyimpan perubahan kode (save point)
+      - Branch : cabang (jalur alternatif buat ngoding tanpa ganggu versi utama)
